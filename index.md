@@ -6,7 +6,8 @@
   
 ## 我们的一些资料
   1. [期刊](./periodical)
-  2. [读书圈](./incomming.md)
+  2. [学习笔记](./notes)
+  3. [读书圈](./incomming.md)
 
 ## 我们是谁？
 
@@ -14,7 +15,7 @@
 | ------------- |:-------------:| -----:|:-----:|
 | 木东居士 | [dantezhao](https://github.com/dantezhao) | [木东居士的茶水间](http://www.mdjs.info) | Null
 | 舒克 | [zhanglei738](https://github.com/zhanglei738) | Null | Null |
-| Rebiekong | [rebiekong](https://github.com/rebiekong) | Null | [main@rebiekong.com](mailto://main@rebiekong.com)|
+| Rebiekong | [rebiekong](https://github.com/rebiekong) | [RebieKong的博客](https://blog.rebiekong.com) | [main@rebiekong.com](mailto://main@rebiekong.com)|
 | 叨叨侠 | [detectivelcy](https://github.com/detectivelcy) | [叨叨侠爱叨叨](https://www.jianshu.com/u/1a5300809bf9)  | Null |
 
 ### 关于交流与沟通
